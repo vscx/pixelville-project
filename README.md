@@ -84,22 +84,29 @@ There are several things on our todo list to finally give this project a beta st
 
 #### **REQUIRED FOR BETA**
 
- - [ ]  Dealers & Traders
- - [ ]  Horses
+ - [ ]  Markets
+ - [x]  Dealers & Traders *-- in progress*
+ - [x]  Horses *-- in progress*
  - [ ]  Residences
  - [ ]  Families
  - [ ]  Empires
  - [ ]  Jobs
- - [x]  Travelling
+ - [ ]  Quest System for Newbies
+ - [x]  Travelling *-- in progress*
+ - [x]  Administrative roles *-- in progress*
 
 #### **DONE**
 
+ - [x]  Global Beta Chat
  - [x]  World Map + Spawn
- - [x]  Islands
+ - [x]  Islands & Territories
+ - [x]  fully interactable NPCs
  - [x]  Cities & Towns / Settlements
  - [x]  Roleplay Chat
  - [x]  Character Creation
  - [x]  Essentials sequences
+ - [x]  Queued Notifications
+ - [x]  Introduction
  - [x]  Forums
  - [x]  Progression Page
  - [x]  Manual
@@ -107,6 +114,8 @@ There are several things on our todo list to finally give this project a beta st
 #### **ADDITIONAL FEATURES**
 
  - [ ]  Political System & Elections
+ - [ ]  Player Ships
+ - [ ]  Quests
 
 
 ## **Support or Contact**
