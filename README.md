@@ -17,10 +17,10 @@ We do have a rule system though. And it is quite strict.
   
 Please review our general rule articles in the manual for an explicit review into these. It is recommended to have taken a look into the set being new to the server and its system. Here a little summary of the most important things:  
   
- - Every player, being it a members of our administrative team or just a newbie joining our community will be treated equally. There are no exceptions.
- - We are strict roleplaying. Which means that you have to roleplay with other players or just being close to them. Learn more about roleplaying.
- - Players have to follow a set of morals that include important things about everyone's behaviour in contact with players or administrators. Learn more about our set or morals.
- - Every player has a right of being forgotten and forgiven. The specific player though has to indicate a recognizable meaning and reason why.
+ * Every player, being it a members of our administrative team or just a newbie joining our community will be treated equally. There are no exceptions.
+ * We are strict roleplaying. Which means that you have to roleplay with other players or just being close to them. Learn more about roleplaying.
+ * Players have to follow a set of morals that include important things about everyone's behaviour in contact with players or administrators. Learn more about our set or morals.
+ * Every player has a right of being forgotten and forgiven. The specific player though has to indicate a recognizable meaning and reason why.
 
 
 ## Features.
@@ -88,27 +88,27 @@ They are nothing more than floating islands, in shape and form of .. ships! They
 For furthermore ingame details, see [https://manual.pixelville.me](https://manual.pixelville.me).
 
 
-## What still needs to be done.
+## What still needs to be done
 
 There are several things on our todo list to finally give this project a beta start. This includes ..
 
-[ ] Families
-[ ] Residences
-[ ] Horses
-[ ] Political System & Elections
-[ ] Dealers & Traders
-[x] Travelling
-[x] World Map + Spawn
-[x] Islands
-[x] Cities & Towns
-[ ] Empires
-[ ] Jobs
-[x] Roleplay Chat
-[x] Character Creation
-[x] Essentials sequences
-[x] Forums
-[x] Progression Page
-[x] Manual
+ - [ ] Families
+ - [ ] Residences
+ - [ ] Horses
+ - [ ] Political System & Elections
+ - [ ] Dealers & Traders
+ - [x] Travelling
+ - [x] World Map + Spawn
+ - [x] Islands
+ - [x] Cities & Towns
+ - [ ] Empires
+ - [ ] Jobs
+ - [x] Roleplay Chat
+ - [x] Character Creation
+ - [x] Essentials sequences
+ - [x] Forums
+ - [x] Progression Page
+ - [x] Manual
 
 ## Support or Contact
 
