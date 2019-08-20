@@ -82,33 +82,33 @@ They are nothing more than floating islands, in shape and form of .. ships! They
 There are several things on our todo list to finally give this project a beta start. This includes ..
 
 
-### Required for Beta
+#### **REQUIRED FOR BETA**
 
-[ ]  Dealers & Traders
-[ ]  Horses
-[ ]  Residences
-[ ]  Families
-[ ]  Empires
-[ ]  Jobs
-[x]  Travelling
+ - [ ]  Dealers & Traders
+ - [ ]  Horses
+ - [ ]  Residences
+ - [ ]  Families
+ - [ ]  Empires
+ - [ ]  Jobs
+ - [x]  Travelling
 
-### Done.
+#### **DONE**
 
-[x]  World Map + Spawn
-[x]  Islands
-[x]  Cities & Towns
-[x]  Roleplay Chat
-[x]  Character Creation
-[x]  Essentials sequences
-[x]  Forums
-[x]  Progression Page
-[x]  Manual
+ - [x]  World Map + Spawn
+ - [x]  Islands
+ - [x]  Cities & Towns / Settlements
+ - [x]  Roleplay Chat
+ - [x]  Character Creation
+ - [x]  Essentials sequences
+ - [x]  Forums
+ - [x]  Progression Page
+ - [x]  Manual
 
-### Additional Features
+#### **ADDITIONAL FEATURES**
 
-[ ]  Political System & Elections
+ - [ ]  Political System & Elections
 
 
-## Support or Contact
+## **Support or Contact**
 
-Having trouble with this page? Check out our [documentation](https://manual.pixelville.me) or [contact us](mailto:administrative@visualstatic.net) and we’ll help you sort it out.
+Any inquires? Do not hesitate to [contact us](mailto:dev@visualstatic.net) right away to talk.
