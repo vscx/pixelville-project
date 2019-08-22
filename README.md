@@ -1,3 +1,11 @@
+[![PayPal Donation](https://img.shields.io/static/v1?style=for-the-badge&label=PayPal&message=Support%20Project&color=FFC43A&logo=paypal)](https://www.paypal.me/whiteshep/)
+ - 
+[![GitHub Bugtracker](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=Bugtracker&color=red&logo=github)](https://www.github.com/vallieres13/bugtracker/)
+ - 
+[![GitHub Bugtracker](https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Private%20Alpha&color=limegreen)](#!)
+
+
+
 # **What is Pixelville?**
 
 We, together, are a small community of Minecraft roleplayers that just looove to write and think of their own stories and manage their character's life in our territory, political and trading systems.  
