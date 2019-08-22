@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.paypal.me/whiteshep/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PayPal&message=Support%20Project&color=FFC43A&logo=paypal" title="PayPal Donation" alt="PayPal Donation" /></a>
-  <a href="https://www.github.com/vallieres13/bugtracker/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=Bugtracker&color=red&logo=github" title="GitHub Bugtracker" alt="GitHub Bugtracker" /></a>
+  <a href="https://www.github.com/vallieres13/pixelville-bugtracker/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=Bugtracker&color=red&logo=github" title="GitHub Bugtracker" alt="GitHub Bugtracker" /></a>
   <a href="#!"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Private%20Alpha&color=limegreen" title="Current Project Status" alt="Current Project Status" /></a>
 </p>
 
