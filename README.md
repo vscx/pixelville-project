@@ -6,8 +6,6 @@
 <div style="background-color: #FFF3CD; color: #8C6C10; padding: 10px 20px;">
 <b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="mailto:applications@visualstatic.net">applications@visualstatic.net</a></b>.
 </div>
-<br />
-<center><img alt="Pixelville Introduction Header" title="Pixelville Introduction Header" src="https://cdn.visualstatic.net/img/pxlv/promo12.png" /></center>
 
 # **What is Pixelville?**
 
@@ -19,7 +17,8 @@ Players can feel free to either join or create a city. But don't have to. Where 
 It is also possible to settle furthermore than only cities or towns. We offer lots of different things as empires, ships, shops, jobs, families, titles (nobility, science or medicine) and more.  
   
 Ever heard of the game Anno? Well if yes, you already know the most of our server's principle. :)
-
+<br />
+<center><img alt="Pixelville Introduction Header" title="Pixelville Introduction Header" src="https://cdn.visualstatic.net/img/pxlv/promo12.png" /></center>
 
 # **Rules & Stuff.**
 
