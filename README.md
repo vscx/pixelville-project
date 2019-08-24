@@ -128,6 +128,16 @@ There are several things on our todo list to finally give this project a beta st
  - [ ]  Quests
 
 
+# pixelville-bugtracker
+Welcome to the <a href="https://github.com/vallieres13/pixelville-project">Pixelville Project's Bugtracker</a>. Please feel free to report any bug you experience in detail for us to be able to fix them all as soon as it allows us to.  
+  
+Please see the screenshot below to know where to navigate to, when wanting to report bugs or other issues concerning the `BETA` of pixelville.me. **Thank you!**
+
+| Screenshot                                                        |
+| ----------------------------------------------------------------- |
+|![issues-tab-on-top-nav](https://i.ibb.co/S7sCVCQ/Screenshot-3.png)|
+
+
 ## **Support or Contact**
 
 Any inquires? Do not hesitate to [contact us](mailto:dev@visualstatic.net) right away to talk.
