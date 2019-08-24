@@ -3,10 +3,10 @@
   <a href="https://www.github.com/vallieres13/pixelville-bugtracker/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&message=Bugtracker&color=red&logo=github" title="GitHub Bugtracker" alt="GitHub Bugtracker" /></a>
   <a href="#!"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Private%20Alpha&color=limegreen" title="Current Project Status" alt="Current Project Status" /></a>
 </p>
-<br /><br />
 <div style="background-color: #FFF3CD; color: #8C6C10; padding: 10px 20px;">
 <b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="mailto:applications@visualstatic.net">applications@visualstatic.net</a></b>.
 </div>
+<br /><br />
 
 <center><img alt="Pixelville Introduction Header" title="Pixelville Introduction Header" src="https://cdn.visualstatic.net/img/pxlv/promo12.png" /></center>
 
