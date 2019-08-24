@@ -4,6 +4,10 @@
   <a href="#!"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Private%20Alpha&color=limegreen" title="Current Project Status" alt="Current Project Status" /></a>
 </p>
 
+<div style="background-color: #FFF3CD; color: #8C6C10; padding: 10px 20px;">
+<b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="mailto:applications@visualstatic.net">applications@visualstatic.net</a></b>. Thank you!
+</div>
+
 # **What is Pixelville?**
 
 We, together, are a small community of Minecraft roleplayers that just looove to write and think of their own stories and manage their character's life in our territory, political and trading systems.  
