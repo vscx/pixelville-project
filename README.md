@@ -128,7 +128,7 @@ There are several things on our todo list to finally give this project a beta st
  - [ ]  Quests
 
 
-# pixelville-bugtracker
+# **pixelville-bugtracker**
 Welcome to the <a href="https://github.com/vallieres13/pixelville-project">Pixelville Project's Bugtracker</a>. Please feel free to report any bug you experience in detail for us to be able to fix them all as soon as it allows us to.  
   
 Please see the screenshot below to know where to navigate to, when wanting to report bugs or other issues concerning the `BETA` of pixelville.me. **Thank you!**
@@ -137,6 +137,13 @@ Please see the screenshot below to know where to navigate to, when wanting to re
 | ----------------------------------------------------------------- |
 |![issues-tab-on-top-nav](https://i.ibb.co/S7sCVCQ/Screenshot-3.png)|
 
+## **Donation** ♥
+Support this project by your personal donation and receive access to our private beta builds of pixelville, a founders badge and exclusive access to our experimental features and forums. 
+Please leave your e-mail address and your personal message for us in the donation description to be able to get back to you.
+
+<p align="center">
+  <a href="https://www.paypal.me/whiteshep/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PayPal&message=Support%20Project&color=FFC43A&logo=paypal" title="PayPal Donation" alt="PayPal Donation" /></a>
+</p>
 
 ## **Support or Contact**
 
