@@ -6,8 +6,7 @@
 <div style="background-color: #FFF3CD; color: #8C6C10; padding: 10px 20px;">
 <b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="mailto:applications@visualstatic.net">applications@visualstatic.net</a></b>.
 </div>
-<br /><br />
-
+<br />
 <center><img alt="Pixelville Introduction Header" title="Pixelville Introduction Header" src="https://cdn.visualstatic.net/img/pxlv/promo12.png" /></center>
 
 # **What is Pixelville?**
