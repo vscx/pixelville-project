@@ -142,7 +142,7 @@ Support this project by your personal donation and receive access to our private
 Please leave your e-mail address and your personal message for us in the donation description to be able to get back to you.
 
 <p align="center">
-  <a href="https://www.paypal.me/whiteshep/"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=PayPal&message=Support%20Project&color=FFC43A&logo=paypal" title="PayPal Donation" alt="PayPal Donation" /></a>
+  <a href="https://www.paypal.me/whiteshep/"><img src="https://cdn.github.com/img/pxlv/paypal.png" title="PayPal Donation" alt="PayPal Donation" /></a>
 </p>
 
 ## **Support or Contact**
