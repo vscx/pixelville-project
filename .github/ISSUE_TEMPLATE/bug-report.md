@@ -27,5 +27,5 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Windows 7/8/10, Ubuntu 18.04]
  - Version [e.g. 1.8.9, 1.9.2, 1.13.2]
 
-**Additional context**
+**Additional context** (optional)
 Add any other context about the problem here.

@@ -23,5 +23,5 @@ Steps to reproduce the behavior:
 **Screenshots**
 If applicable, add screenshots to design the reproduction for developers easier.
 
-**Additional context**
+**Additional context** (optional)
 Add any other context about the problem here.
