@@ -4,7 +4,7 @@
   <a href="#!"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Private%20Alpha&color=limegreen" title="Current Project Status" alt="Current Project Status" /></a>
 </p>
 <div style="background-color: #FFF3CD; color: #8C6C10; padding: 10px 20px;">
-<b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="mailto:applications@visualstatic.net">applications@visualstatic.net</a></b>.
+<b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="https://careers.visualstatic.net/index.php/Listing/20-Quality-Assurance">visualstatic Careers</a></b>.
 </div>
 
 # **What is Pixelville?**
@@ -129,9 +129,9 @@ There are several things on our todo list to finally give this project a beta st
 
 
 # **pixelville-bugtracker**
-Welcome to the <a href="https://github.com/vallieres13/pixelville-project">Pixelville Project's Bugtracker</a>. Please feel free to report any bug you experience in detail for us to be able to fix them all as soon as it allows us to.  
+Welcome to the <a href="https://github.com/vallieres13/pixelville-project/issues">Pixelville Project's Bugtracker</a>. Please feel free to report any bug you experience in detail for us to be able to fix them all as soon as it allows us to.  
   
-Please see the screenshot below to know where to navigate to, when wanting to report bugs or other issues concerning the `BETA` of pixelville.me. **Thank you!**
+Please see the screenshot below to know where to navigate to, when wanting to report bugs or other issues concerning the `BETA` of pixelville.me. **Thank you!** <a href="https://github.com/vallieres13/pixelville-project/issues/new/choose">Create issue.</a>
 
 | Screenshot                                                        |
 | ----------------------------------------------------------------- |
