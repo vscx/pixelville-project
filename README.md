@@ -4,7 +4,7 @@
   <a href="#!"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=Status&message=Private%20Alpha&color=limegreen" title="Current Project Status" alt="Current Project Status" /></a>
 </p>
 <div style="background-color: #FFF3CD; color: #8C6C10; padding: 10px 20px;">
-<b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Please apply at <b><a href="https://careers.visualstatic.net/index.php/Listing/20-Quality-Assurance" target="_blank">visualstatic Careers</a></b>.
+<b>Important:</b> As we would like to join the BETA phase as soon as possible, we will need at least 7 to 10 BETA testers for the gameserver. Learn more: <b><a href="https://go.vscx.eu/quality" target="_blank">https://go.vscx.eu/quality</a></b>
 </div>
 
 # **What is Pixelville?**
