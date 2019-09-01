@@ -14,7 +14,7 @@ We, together, are a small community of Minecraft roleplayers that just looove to
 We are living in a voluminous bordered world - which is there to represent the round earth - that contains a different islands, some of them being bigger or smaller than others. You can review an always-updating map in a graphic right underneath this paragraph or on the main page of the manual.  
 
 **CURRENT MAP PROGRESSION** -- *NOT DONE YET!*
-<center><img alt="Pixelville Current Map Progression" title="Pixelville Current Map Progression" src="https://cdn.visualstatic.net/img/pxlv/promo13.png" /></center>
+<center><img alt="Pixelville Current Map Progression" title="Pixelville Current Map Progression" src="https://cdn.visualstatic.net/img/pxlv/promo15.png" /></center>
 
   
 Players can feel free to either join or create a city. But don't have to. Where everything has its own advantage and disadvantages, you might also live as an buccaneer, pioneer or sail around like a pirate. There are no borders for anyone's creativity in terms of designing their own character and roleplaying with other players that play out a role of their desire.
