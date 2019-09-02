@@ -98,9 +98,7 @@ There are several things on our todo list to finally give this project a beta st
 
 #### **REQUIRED FOR BETA**
 
- - [ ]  Markets
- - [x]  Dealers & Traders *-- in progress*
- - [x]  Horses *-- in progress*
+ - [x]  Horse Dealers *-- in progress*
  - [ ]  Residences
  - [ ]  Families
  - [ ]  Empires
@@ -111,6 +109,8 @@ There are several things on our todo list to finally give this project a beta st
 
 #### **DONE**
 
+ - [x]  Marketplaces
+ - [x]  Horses
  - [x]  Global Beta Chat
  - [x]  World Map + Spawn
  - [x]  Islands & Territories
